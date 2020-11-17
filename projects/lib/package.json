@@ -1,10 +1,13 @@
 {
-  "name": "angular-oauth2-oidc",
+  "name": "@cosium-fork/angular-oauth2-oidc",
   "license": "MIT",
   "author": {
     "name": "Manfred Steyer"
   },
-  "version": "10.0.2",
+  "version": "10.0.3-1",
+  "publishConfig": {
+    "registry": "https://nexus.cosium.dev/repository/npm-releases/"
+  },
   "repository": "manfredsteyer/angular-oauth2-oidc",
   "peerDependencies": {
     "@angular/common": ">=8.0.0",
