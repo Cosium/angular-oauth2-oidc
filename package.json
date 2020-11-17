@@ -1,6 +1,6 @@
 {
   "name": "starter",
-  "version": "10.0.3-3",
+  "version": "10.0.3-4",
   "publishConfig": {
     "registry": "https://nexus.cosium.dev/repository/npm-releases/"
   },
